@@ -1,3 +1,5 @@
+## Description
+
 This is a AI tool which uses OpenAI and ReplicateAI to generate various media from prompts entered by the user.
 
 ## Getting Started
